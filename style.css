@@ -1,0 +1,22 @@
+body{background-color: #F3AC3C;}
+
+.box1{ 
+    background-color: #1A4341;
+    height: 200px; width: 200px;
+    margin: auto; margin-top: 20%;
+    transform: scale(1,1);
+}
+
+.box2{ 
+    background-color: #998235;
+    height: 100px; width: 100px;
+    margin: auto; margin-top: -100px;  
+    transform: scale(1,1);
+}
+
+.box3{ 
+    background-color: #F3AC3C;
+    height: 50px; width: 50px;
+    margin: auto; margin-top: -50px;
+    transform: scale(1,1);
+}
